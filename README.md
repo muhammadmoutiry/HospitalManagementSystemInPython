@@ -89,13 +89,10 @@ Please see patient Ahmed
 ```text
 hospital-system/
 │
-├── patient.py
 ├── hospital.py
-├── main.py
 ├── README.md
 ```
 
-*(Modify according to your actual file structure.)*
 
 ---
 
@@ -103,10 +100,6 @@ hospital-system/
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/hospital-system.git
-cd hospital-system
-```
 
 Run:
 
